@@ -73,4 +73,5 @@ Modify some of the parameters to create a cool effect. This effect can be displa
 # Submission
 - Create a pull request to this repository
 - In the README, include the names of both of your team members
-- In the README, include images (or videos!) of your results AND the values for all the parameters you changed
+- In the README, include a description of the task or puzzle you completed, screenshots/images (or videos!) of your results, AND the values for all the parameters you changed
+- There is no need to upload a Houdini File. Screenshots of your results and images (or written values) of the parameters will be sufficient!
