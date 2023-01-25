@@ -1,3 +1,20 @@
+#my solutions
+## puzzle 1
+
+## puzzle 2
+kill_rate = 0.0649
+
+frame 5
+![image](https://user-images.githubusercontent.com/60904107/214637398-60c49eef-f386-479d-a86e-3e8b82285277.png)
+
+frame 100
+![image](https://user-images.githubusercontent.com/60904107/214637518-68a58360-44dd-4e66-89b8-66217432d663.png)
+
+
+
+## puzzle 3
+---
+
 # Lab06 - Reaction Diffusion
 Let's play with the parameters and setup of the reaction-diffusion equation to create cool effects. You may work with a partner for this lab. **Please choose 3 of the following 5 puzzles/tasks to complete this lab.** Additional puzzles/task may be completed for extra credit.
 
