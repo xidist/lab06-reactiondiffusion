@@ -1,5 +1,9 @@
-#my solutions
+# my solutions
+teammates: none
 ## puzzle 1
+feed rate: 0.03
+![image](https://user-images.githubusercontent.com/60904107/214640047-1b7ad185-6a46-40b3-8bac-b0551c771734.png)
+
 
 ## puzzle 2
 kill_rate = 0.0649
@@ -13,6 +17,15 @@ frame 100
 
 
 ## puzzle 3
+dB = 0.3
+
+frame 5
+![image](https://user-images.githubusercontent.com/60904107/214641088-fc9ab186-5234-4fa9-b318-491abfd8ed7d.png)
+
+
+frame 100
+![image](https://user-images.githubusercontent.com/60904107/214640981-948da97a-6f7a-4dec-93cd-39f9dad5554a.png)
+
 ---
 
 # Lab06 - Reaction Diffusion
